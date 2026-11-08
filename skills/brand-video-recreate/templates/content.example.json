@@ -1,0 +1,15 @@
+{
+  "brand": {
+    "name": "내 브랜드",
+    "primary": "#CF1830",
+    "background": "#111111",
+    "font": "Pretendard",
+    "logo": "assets/logo.svg"
+  },
+  "scenes": [
+    { "id": "s01", "title": "첫 문장은 여기", "sub": "보조 문장", "image": "assets/s01.jpg" },
+    { "id": "s02", "title": "두 번째 장면 글", "sub": "", "image": "assets/s02.jpg" }
+  ],
+  "closing": { "line": "마지막에 남길 한 줄", "cta": "팔로우와 좋아요" },
+  "audio": { "music": "assets/my_music.mp3", "voice": "assets/voice.wav" }
+}
